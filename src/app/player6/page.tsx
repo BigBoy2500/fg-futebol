@@ -1,0 +1,1 @@
+import VideoPlayer from '@/components/VideoPlayer'; export default function Player6() { return ( <div><h1 className="text-3xl font-bold text-center mb-8">Sport TV 6</h1><VideoPlayer title="Sport TV 6" playerNumber={26} /></div> ); }
